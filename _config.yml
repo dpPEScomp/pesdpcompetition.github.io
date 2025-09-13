@@ -8,21 +8,21 @@
 
 # Basic Site Settings
 locale                   : "en-Ireland"
-title                    : "IResX Lab"
+title                    : "Good Datasets for AI Model Training in the Power and Energy Domain"
 title_separator          : "-"
-name                     : &name "Jin Zhao"
+name                     : &name "PES"
 description              : &description "personal description"
 url                      : https://JinZhaoTCD.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JinZhaoTCD/JinZhaoTCD.github.io"
+repository               : "dppescomp.github.io/pesdpcompetition.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "新证件照-1735895203939.jpg"
-  name             : "Jin Zhao"
+  avatar           : "新证件照"
+  name             : "PES DataPort Competition"
   pronouns         : # example: "she/her"  
   bio              : "Director of IResX lab"
   location         : "Earth"
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=vV68wh8AAAAJ&hl=en"
+  googlescholar    : ""
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-4500-1288"
+  orcid            : ""
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "JinZhaoTCD"
+  github           : "dpPEScomp"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jin-zhao-105b3a257/"
+  linkedin         : # URL
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
