@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Gallary"
-permalink: /gallary/
+title: "Activities"
+permalink: /activities/
 author_profile: true
 ---
 Activities in PES DataPort Competition.
