@@ -23,14 +23,14 @@ We are grateful for the sponsors and colloberations from IEEE PES and DataPort.
 
 ## **Key dates**
 
-| Date          | Description               |
-| GMT+0         | ------------------------- |
-| xx.xx.xxxx    | Registration opens        |
-| xx.xx.xxxx    | Submission opens          |
-| xx.xx.xxxx    | Submission deadline       |
-| xx.xx.xxxx    | Compliance screening      |
-| xx.xx.xxxx    | Online defense            |
-| xx.xx.xxxx    | Result announcement       |
+| Date \(GMT+0\) | Description               |
+| -------------- | ------------------------- |
+| xx.xx.xxxx     | Registration opens        |
+| xx.xx.xxxx     | Submission opens          |
+| xx.xx.xxxx     | Submission deadline       |
+| xx.xx.xxxx     | Compliance screening      |
+| xx.xx.xxxx     | Online defense            |
+| xx.xx.xxxx     | Result announcement       |
 
 
 ## Committee
