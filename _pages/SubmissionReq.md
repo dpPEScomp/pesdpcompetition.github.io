@@ -2,7 +2,7 @@
 layout: archive
 title: "Submission Req"
 permalink: /Submission Req/
-author_profile: true
+author_profile: false
 ---
 Submission requirements.
 
