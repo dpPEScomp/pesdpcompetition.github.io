@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PES Competition"
+title: "Good Datasets for AI Model Training in the Power and Energy Domain"
 author_profile: false
 redirect_from: 
   - /about/
