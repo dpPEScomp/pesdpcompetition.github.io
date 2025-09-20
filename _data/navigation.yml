@@ -8,18 +8,14 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Team member"
-    url: /TeamMember/
-    
-  - title: "Publications"
-    url: /publications/
+  - title: "Activities"
+    url: /activities/
 
+  - title: "RegulationsPublications"
+    url: /regulations/
 
-  - title: "Project"
-    url: /projects/    
+  - title: "Prices"
+    url: /prices/    
     
-  - title: "Position"
-    url: /position/
-    
-  - title: "Gallary"
-    url: /gallary/
+  - title: "Submission Req"
+    url: /Submission Req/
