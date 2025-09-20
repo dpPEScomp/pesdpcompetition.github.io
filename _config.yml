@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-Ireland"
-title                    : "Good Datasets for AI Model Training in the Power and Energy Domain"
+title                    : "Good Datasets Competition"
 title_separator          : "-"
-name                     : &name "PES"
+name                     : &name "IEEE PES & DataPort"
 description              : &description "personal description"
-url                      : https://JinZhaoTCD.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://dppescomp.github.io/pesdpcompetition.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dppescomp.github.io/pesdpcompetition.github.io"
 
@@ -21,14 +21,14 @@ repository               : "dppescomp.github.io/pesdpcompetition.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "新证件照"
+  avatar           : ""
   name             : "PES DataPort Competition"
   pronouns         : # example: "she/her"  
-  bio              : "Director of IResX lab"
+  bio              : ""
   location         : "Earth"
-  employer         : "Trinity College Dublin"
+  employer         : ""
   uri              : # URL
-  email            : "zhaoj6@tcd.ie" 
+  email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
