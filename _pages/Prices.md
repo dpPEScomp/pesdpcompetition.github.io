@@ -2,7 +2,7 @@
 layout: archive
 title: "Prices"
 permalink: /prices/
-author_profile: true
+author_profile: false
 ---
 Prices of the competition
 
