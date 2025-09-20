@@ -2,7 +2,7 @@
 layout: archive
 title: "Regulations"
 permalink: /regulations/
-author_profile: true
+author_profile: false
 ---
 Regulations of the competition.
 
