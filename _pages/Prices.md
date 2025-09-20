@@ -8,26 +8,9 @@ Prices of the competition
 
 ---
 
-# C
-
-* **Enhance climate adaptation and extreme weather resilience of highly renewable penetrated electricity system**
-
-For details:
-[CRIE project website]().
-
-
-
----
-
-# RECS
-
-* **Interpretable machine learning supported resilient power restoration of coupled electricity and communication systems  with mobile devices**
-
-For details:
-
-
-
----
-
-
-
+# The following cash prize will be awarded.
+| Rank    | Number    | Prize    |
+| ------- | --------- | -------- |
+| 1st     | 1         | $ 4000   |
+| 2nd     | 2         | $ 2000   |
+| 3rd     | 2         | $ 1000   |
