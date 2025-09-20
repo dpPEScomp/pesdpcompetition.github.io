@@ -19,7 +19,7 @@ The [official site]() of this competition can be accessed on IEEE DataPort.
 ## Sponsors & Organizors
 We are grateful for the sponsors and colloberations from IEEE PES and DataPort.
 
-<img src="https://pesdpcompetition.github.io/images/IEEE-PES-Logo-Web-No-Background.jpg" width="557" height="390">  <img src="https://pesdpcompetition.github.io/images/dataport logo.png" width="535" height="94"> 
+<img src="https://pesdpcompetition.github.io/images/IEEE-PES-Logo-Web-No-Background.jpg" width="557" height="390">  <img src="https://pesdpcompetition.github.io/images/dataport logo.png" width="2247" height="395"> 
 
 ## **Key dates**
 
@@ -48,4 +48,4 @@ The competition committee memerbes are:
 | Name 9           | Trinity College Dublin   |                                    |
 
 
-Contact us: Email dppesdatacompetition@gmail.com
+Contact us: dppesdatacompetition@gmail.com
