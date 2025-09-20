@@ -11,7 +11,11 @@ redirect_from:
 
 ## Intro
 Good Datasets for AI Model Training in the Power and Energy Domain is the first competition organized by IEEE Power & Energy Society and IEEE DataPort.
-Our goal is to call for high-quality dataset to motivate the AI development and application in the power and energy domain.
+This Competition encourages researchers across the power and energy community to contribute high-quality datasets that support AI model training and evaluation for power/energy applications. The competition does not constrain algorithms or model choices. Instead, it emphasizes:
+* The importance of the addressed problem and its difficulty of applying AI;
+* The dataset’s quality, representativeness, reproducibility, and compliance;
+* Reasonable validation on the dataset (e.g., baselines or illustrative experiments).
+All submitted datasets **MUST** be hosted on IEEE DataPort and comply with DataPort’s upload and publication policies. All submitted works should consist of two parts: dataset part and report part. The final winner will be determined through the **online defense**.
 
 ## Official site
 The [official site]() of this competition can be accessed on IEEE DataPort.
