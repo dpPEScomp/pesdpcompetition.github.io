@@ -2,7 +2,7 @@
 layout: archive
 title: "News"
 permalink: /news/
-author_profile: true
+author_profile: false
 ---
 **News of Competition**
 
