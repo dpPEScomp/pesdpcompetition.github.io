@@ -10,7 +10,7 @@ redirect_from:
 ![Competition Logo](https://dppescomp.github.io/pesdpcompetition.github.io/images/PEScompLogo.png)
 
 ## Official site
-The [official site]() of this competition can be accessed on IEEE DataPort and news will be updated dynamically on [this site](https://dppescomp.github.io/pesdpcompetition.github.io/).
+The [dual site]() of this competition can be accessed on IEEE DataPort and news will be updated dynamically on [this site](https://dppescomp.github.io/pesdpcompetition.github.io/).
 
 
 ## Abstract
@@ -18,16 +18,19 @@ Application and development of advanced AI models provide pivotal solutions for 
 
 
 ## Competition Purpose & Scope
-This Competition encourages researchers across the community to **contribute high-quality datasets** that support AI model training and evaluation for challenging problems in PES. The competition **does not constrain targeted questions, algorithms, or model choices**. Instead, it emphasizes:
-* The importance of the addressed problem and the technical difficulty of applying AI;
-* The dataset’s quality, representativeness, reproducibility, and compliance for AI model training;
-* Performance of the AI models trained on the dataset(s).
+This Competition encourages researchers across the community to contribute high-quality datasets that support AI model training and evaluation for challenging problems in PES. The competition does not constrain targeted questions (as long as they’re in the PES field), algorithms, or model choices. Instead, it emphasizes:
+•	The importance of the addressed problem and the technical difficulty of applying AI;
+•	The dataset’s quality, representativeness, reproducibility, and compliance for AI model training/learning;
+•	Performance of the AI models trained on the dataset(s).
 
 
-## Competition procedure
-* All submitted works should consist of two parts: the dataset and the corresponding report in IEEE data description [journal style](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10347231).
-* All submitted datasets MUST be hosted on [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies. 
+## Submission Requirements
+* Submitted works consist of two parts: part1 the DATASET(s) and part2 the REPORT(s)
+* All submitted DATASET(s) must be uploaded to [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies. 
+* REPORT(s) must include a data description article in [IEEE data description](https://www.ieee-data.org/) journal Descriptor Articles style. 
+* Please use the provided template for REPORT(s)
 
+**Find more info. in Submission Deatils session**
 
 
 ## **Key dates**
