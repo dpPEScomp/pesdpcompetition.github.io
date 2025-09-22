@@ -74,7 +74,16 @@ Final_score = <math>
 \* Students include undergraduate and postgraduate students.
 
 * Tie-breaking
-  If a tie occurs, compare in order: \(1\) Data quality & completeness \(higher wins\); \(2\) Metadata quality \(higher wins\); \(3\) Baseline validation \(higher wins\).
+  If a tie occurs, compare in order: \(1\) Data quality & completeness \(higher wins\); \(2\) Metadata quality \(higher wins\);<br> \(3\) Baseline validation \(higher wins\).
 * Disqualification & Deductions
   Plagiarism, infringement, data fabrication, or major compliance risks may lead to disqualification. If data/code becomes inaccessible during review or significantly deviates from the report, organizers may deem the submission invalid.
 
+
+# 5 IP, Legal, Ethics & Safety
+
+* Teams must ensure they hold the necessary rights to their submissions and do not infringe third-party rights.
+* Data, code, and documentation must carry explicit licenses. Third-party components must cite sources and licenses and ensure lawful redistribution and Competition use.
+* Teams retain their IP. Organizers and reviewers have a fair-use right for competition-related publicity, review, and scholarly communication \(including screenshots, abstracts, and links\).
+* No PII or sensitive critical-infrastructure details; apply appropriate de-identification/differential privacy where necessary and document it.
+* Data sources must be lawful and compliant; assess and disclose potential risks \(bias, discrimination, misuse\).
+* Sensitive grid-security information should be obfuscated and disclosed in tiers where appropriate.
