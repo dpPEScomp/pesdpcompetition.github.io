@@ -60,18 +60,17 @@ Final_score = <math>
   <mrow>
     <mo>&#x03A3;</mo>
       <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
-   </mrow>
-</math>
+   </mrow></math>
+
 
 * All-student bonus &#x03B3;=0.5: Final_score = <math>
   <mrow>
     <mo>&#x03B3; + </mo>
     <mo>&#x03A3;</mo>
       <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
-   </mrow>
-</math>
+   </mrow></math>
 
-\* Students include undergraduate and postgraduate students.
+\(\* Students include undergraduate and postgraduate students.\)
 
 * Tie-breaking
   If a tie occurs, compare in order: \(1\) Data quality & completeness \(higher wins\); \(2\) Metadata quality \(higher wins\);<br> \(3\) Baseline validation \(higher wins\).
