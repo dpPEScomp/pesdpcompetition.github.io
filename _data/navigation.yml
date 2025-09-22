@@ -8,14 +8,8 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Activities"
-    url: /activities/
-
-  - title: "RegulationsPublications"
+  - title: "Regulations"
     url: /regulations/
 
-  - title: "Prices"
-    url: /prices/    
-    
-  - title: "Submission Req"
-    url: /Submission Req/
+  - title: "Prizes"
+    url: /prizes/    
