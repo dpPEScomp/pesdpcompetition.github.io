@@ -12,10 +12,10 @@ Regulations of the competition.
 * All submitted datasets must be hosted on [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies.
 
 The competition has **two stages**:
-* Stage 1
-The submitted datasets and reports will be reviewed by the committees, and the Top 5 teams will be selected.
-* Stage 2
-These **Top 5 teams** will be invited to an online defense, where they will present their datasets. The final winners will be determined based on this defense.
+* **Stage 1**
+  The submitted datasets and reports will be reviewed by the committees, and the Top 5 teams will be selected.
+* **Stage 2**
+  These **Top 5 teams** will be invited to an online defense, where they will present their datasets. The final winners will be determined based on this defense.
 
 
 # 2 Eligibility & Teaming
