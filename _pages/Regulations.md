@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Submission Req"
-permalink: /Submission Req/
+title: "Regulations"
+permalink: /regulations/
 author_profile: false
 ---
-Submission requirements.
+Regulations of the competition.
 
 ---
 # 1 Competition procedure
