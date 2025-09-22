@@ -8,7 +8,15 @@ Prices of the competition
 
 ---
 
-# The following cash prize will be awarded.
+# Award & Prizes
+* Certifications for winners from IEEE DataPort.
+* Winner datasets promotion by IEEE DataPort.
+* Green channel to publish the data reports of winners in the IEEE Data Descriptions journal.
+* APC waiver for top3 place.
+* Peer-review waiver for all winners.
+
+The following cash prize will be awarded:
+
 | Rank    | Number    | Prize    |
 | ------- | --------- | -------- |
 | 1st     | 1         | $ 4000   |
