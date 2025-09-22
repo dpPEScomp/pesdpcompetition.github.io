@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Competition Logo](https://pesdpcompetition.github.io/images/PEScompLogo.png)
+![Competition Logo](https://github.com/dpPEScomp/pesdpcompetition.github.io/images/PEScompLogo.png)
 
 ## Intro
 Good Datasets for AI Model Training in the Power and Energy Domain is the first competition organized by IEEE Power & Energy Society and IEEE DataPort.
@@ -40,7 +40,7 @@ We are grateful for the sponsors and colloberations from IEEE PES and DataPort.
 ## Committee
 The competition committee memerbes are:
 | Name             | Affiliation              | Description                        |
-| --------         | ------                   | ---------------------------------- |
+| ---------------- | ------------------------ | ---------------------------------- |
 | Name 1           | Trinity College Dublin   |                                    |
 | Name 2           | Trinity College Dublin   |                                    |
 | Name 3           | Trinity College Dublin   |                                    |
