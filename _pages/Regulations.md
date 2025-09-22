@@ -21,7 +21,7 @@ The competition has **two stages**:
 # 2 Eligibility & Teaming
 * Participation is open to individuals or teams. Each team may have at most 3 members (including the team lead).
 * Only one registration per team is required. There is no restriction on members’ institutions.
-* All-student teams receive a scoring advantage (see §9). An all-student team means all members are enrolled students (undergraduate, master’s, or PhD) on the submission deadline.
+* All-student teams receive a scoring advantage (see final score calculation). An all-student team means all members are enrolled students (undergraduate, master’s, or PhD) on the submission deadline.
 * Each participant (including individuals) may join at most one team. Duplicate participation may result in disqualification.
 
 
@@ -48,12 +48,12 @@ The competition has **two stages**:
 
 | No.    | Section \(<i>S<sub>i</sub></i>\)                      | Weight \(<i>W<sub>i</sub></i>\)  |
 | ------ | ----------------------------------------------------- | ------------------- |
-| 1      | Importance of targeted problem <br>\(A good dataset should target a problem of high relevance and impact in the power<br> and energy domain, advancing both research innovation and practical solutions.\)  | 10% |
-| 2      | Difficulty of data organization<br>\(The difficulty of data organization reflects the effort required to collect, clean,<br> integrate, and structure the dataset.\)                     | 10% |
-| 3      | Accessibility & Usability<br>\(Publicly available, with clear documentation, metadata, and licensing. Organized<br> in standard formats (e.g., MAT, CSV, JSON, HDF5) and easy to integrate into<br> AI workflows.\)  | 20% |
-| 4      | Reproducibility & Transparency<br>\(Accompanied by clear instructions, preprocessing steps, and references. Code<br> for data preparation or example use cases is provided.\)  |  20% |
-| 5      | AI model performance based on datasets<br>\(Good dataset should enable the efficient learning of AI models and achieve<br> reliable, generalizable, and reproducible performance, demonstrated through<br> benchmarking on relevant tasks.\)  | 30% |
-| 6      | Impact potential<br>\(Enables development of robust AI models with measurable improvements.<br> Has potential to accelerate innovation in sustainability, efficiency, reliability or resiliency.\) | 10% |
+| 1      | Importance of targeted problem <br>\(A good dataset should target a problem of high relevance and impact in the power and energy domain, advancing both research innovation and practical solutions.\)  | 10% |
+| 2      | Difficulty of data organization<br>\(The difficulty of data organization reflects the effort required to collect, clean, integrate, and structure the dataset.\)                     | 10% |
+| 3      | Accessibility & Usability<br>\(Publicly available, with clear documentation, metadata, and licensing. Organized in standard formats (e.g., MAT, CSV, JSON, HDF5) and easy to integrate into AI workflows.\)  | 20% |
+| 4      | Reproducibility & Transparency<br>\(Accompanied by clear instructions, preprocessing steps, and references. Code for data preparation or example use cases is provided.\)  |  20% |
+| 5      | AI model performance based on datasets<br>\(Good dataset should enable the efficient learning of AI models and achieve reliable, generalizable, and reproducible performance, demonstrated through benchmarking on relevant tasks.\)  | 30% |
+| 6      | Impact potential<br>\(Enables development of robust AI models with measurable improvements. Has potential to accelerate innovation in sustainability, efficiency, reliability or resiliency.\) | 10% |
 
 * Final score calculation
 Final_score = <math>
@@ -73,7 +73,7 @@ Final_score = <math>
 \(\* Students include undergraduate and postgraduate students.\)
 
 * Tie-breaking
-  If a tie occurs, compare in order: \(1\) Data quality & completeness \(higher wins\); \(2\) Metadata quality \(higher wins\);<br> \(3\) Baseline validation \(higher wins\).
+  If a tie occurs, compare in order: \(1\) Data quality & completeness \(higher wins\); \(2\) Metadata quality \(higher wins\); \(3\) Baseline validation \(higher wins\).
 * Disqualification & Deductions
   Plagiarism, infringement, data fabrication, or major compliance risks may lead to disqualification. If data/code becomes inaccessible during review or significantly deviates from the report, organizers may deem the submission invalid.
 
