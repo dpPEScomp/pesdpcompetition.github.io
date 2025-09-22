@@ -10,7 +10,7 @@ redirect_from:
 ![Competition Logo](https://dppescomp.github.io/pesdpcompetition.github.io/images/PEScompLogo.png)
 
 ## Official site
-The [official site]() of this competition can be accessed on IEEE DataPort and news will be updated dynamically on [github site](https://dppescomp.github.io/pesdpcompetition.github.io/).
+The [official site]() of this competition can be accessed on IEEE DataPort and news will be updated dynamically on [this site](https://dppescomp.github.io/pesdpcompetition.github.io/).
 
 
 ## Abstract
