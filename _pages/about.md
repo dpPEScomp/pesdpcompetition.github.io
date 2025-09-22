@@ -10,7 +10,7 @@ redirect_from:
 ![Competition Logo](https://dppescomp.github.io/pesdpcompetition.github.io/images/PEScompLogo.png)
 
 ## Official site
-The [official site]() of this competition can be accessed on IEEE DataPort and news will be updated dynamically on this site [github site](https://dppescomp.github.io/pesdpcompetition.github.io/).
+The [official site]() of this competition can be accessed on IEEE DataPort and news will be updated dynamically on [github site](https://dppescomp.github.io/pesdpcompetition.github.io/).
 
 
 ## Abstract
@@ -25,8 +25,8 @@ This Competition encourages researchers across the community to **contribute hig
 
 
 ## Competition procedure
-* All submitted works should consist of two parts: the dataset and the corresponding report in IEEE data description journal style. [template site](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10347231)
-* All submitted datasets MUST be hosted on IEEE DataPort [DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies. 
+* All submitted works should consist of two parts: the dataset and the corresponding report in IEEE data description [journal style](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10347231).
+* All submitted datasets MUST be hosted on [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies. 
 
 
 ## Sponsors & Organizors
