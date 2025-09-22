@@ -4,7 +4,7 @@ title: "Regulations"
 permalink: /regulations/
 author_profile: false
 ---
-Regulations of the competition.
+Regulations of the competition. Any matters not covered herein shall be decided by the committee after deliberation.
 
 ---
 # 1 Competition procedure
