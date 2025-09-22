@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Prices"
-permalink: /prices/
+title: "Prizes"
+permalink: /prizes/
 author_profile: false
 ---
 Prices of the competition
