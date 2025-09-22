@@ -29,11 +29,6 @@ This Competition encourages researchers across the community to **contribute hig
 * All submitted datasets MUST be hosted on [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies. 
 
 
-## Sponsors & Organizors
-We are grateful for the sponsors and colloberations from IEEE PES and DataPort.
-
-<img src="https://dppescomp.github.io/pesdpcompetition.github.io/images/IEEEPESLogo.png" width="557" height="390">  <img src="https://dppescomp.github.io/pesdpcompetition.github.io/images/dataport logo.png" width="2247" height="395"> 
-
 
 ## **Key dates**
 
