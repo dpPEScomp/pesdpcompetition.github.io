@@ -51,7 +51,8 @@ We are grateful for the sponsors and colloberations from IEEE PES and DataPort.
 
 
 ## Committee
-The competition committee memerbes are:
+The competition committee memerbes include:
+
 | Name             | Affiliation              | Description                        |
 | ---------------- | ------------------------ | ---------------------------------- |
 | Name 1           | Trinity College Dublin   |                                    |
