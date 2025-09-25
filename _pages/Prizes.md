@@ -21,7 +21,6 @@ Prices of the competition
 | 3rd   | 2       | $ 1000  |
 
 
-
 # Rubric Detail
 ## Scale
 * Each section is scored on **1–5**
@@ -46,18 +45,21 @@ Prices of the competition
 | 5      | AI model performance based on datasets<br>\(A good dataset should enable the efficient learning of AI models and achieve reliable, generalizable, and reproducible performance, demonstrated through benchmarking on relevant tasks.\)  | 30% |
 | 6      | Impact potential<br>\(Enables development of robust AI models with measurable improvements. Has potential to accelerate innovation in sustainability, efficiency, reliability, or resiliency.\) | 10% |
 
+## Score
 
-* All-student bonus &#x03B3=0.5; format penalty p=1: Final_score = <math>
+* All-student bonus &#x03B3;=0.5, format penalty p=1: Final_score = <math>
   <mrow>
     <mo>&#x03B3; -p + </mo>
     <mo>&#x03A3;</mo>
       <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
-   </mrow></math>
+   </mrow></math>**
 
 \(\* Students include undergraduate and postgraduate students.\)
+
 \(\* Format penalty: submissions do not follow the required formatting, e.g. word/page limit.\)
 
 * Tie-breaking
   If a tie occurs, compare in order: \(1\) AI model performance based on datasets \(higher wins\); \(2\) Reproducibility & transparency \(higher wins\); \(3\) Accessibility & usability \(higher wins\).
+  
 * Disqualification & Deductions
   Plagiarism, infringement, data fabrication, or major compliance risks may lead to disqualification. If data/code becomes inaccessible during review or significantly deviates from the report, organizers may deem the submission invalid.
