@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /news/
+title: "Committees"
+permalink: /committees/
 author_profile: false
 ---
 **News of Competition**
