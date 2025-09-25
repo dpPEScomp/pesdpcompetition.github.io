@@ -22,3 +22,51 @@ The following cash prize will be awarded:
 | 1st   | 1       | $ 4000  |
 | 2nd   | 2       | $ 2000  |
 | 3rd   | 2       | $ 1000  |
+
+
+
+# Rubric Detail
+## Scale
+* Each section is scored on **1–5**
+
+| Score  | Description                                           |
+| ------ | ----------------------------------------------------- |
+| 1      | Poor \(severe deficiencies \/ unusable\)              |
+| 2      | Weak \(multiple issues\)                              |
+| 3      | Fair \(meets minimum expectations\)                   |
+| 4      | Good \(high quality with minor gaps\)                 |
+| 5      | Excellent \(clear, complete, reusable, high impact\)  |
+
+
+## Section weights
+
+| No.    | Section \(<i>S<sub>i</sub></i>\)                      | Weight \(<i>W<sub>i</sub></i>\)  |
+| ------ | ----------------------------------------------------- | ------------------- |
+| 1      | Importance of targeted problem <br>\(A good dataset should target a problem of high relevance and impact in the power and energy domain, advancing both research innovation and practical solutions.\)  | 10% |
+| 2      | Difficulty of data organization<br>\(The difficulty of data organization reflects the effort required to collect, clean, integrate, and structure the dataset.\)                     | 10% |
+| 3      | Accessibility & Usability<br>\(Publicly available, with clear documentation, metadata, and licensing. Organized in standard formats (e.g., MAT, CSV, JSON, HDF5) and easy to integrate into AI workflows.\)  | 20% |
+| 4      | Reproducibility & Transparency<br>\(Accompanied by clear instructions, preprocessing steps, and references. Code for data preparation or example use cases is provided.\)  |  20% |
+| 5      | AI model performance based on datasets<br>\(A good dataset should enable the efficient learning of AI models and achieve reliable, generalizable, and reproducible performance, demonstrated through benchmarking on relevant tasks.\)  | 30% |
+| 6      | Impact potential<br>\(Enables development of robust AI models with measurable improvements. Has potential to accelerate innovation in sustainability, efficiency, reliability, or resiliency.\) | 10% |
+
+* Final score calculation
+Final_score = <math>
+  <mrow>
+    <mo>&#x03A3;</mo>
+      <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
+   </mrow></math>
+
+
+* All-student bonus &#x03B3;=0.5: Final_score = <math>
+  <mrow>
+    <mo>&#x03B3; + </mo>
+    <mo>&#x03A3;</mo>
+      <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
+   </mrow></math>
+
+\(\* Students include undergraduate and postgraduate students.\)
+
+* Tie-breaking
+  If a tie occurs, compare in order: \(1\) Data quality & completeness \(higher wins\); \(2\) Metadata quality \(higher wins\); \(3\) Baseline validation \(higher wins\).
+* Disqualification & Deductions
+  Plagiarism, infringement, data fabrication, or major compliance risks may lead to disqualification. If data/code becomes inaccessible during review or significantly deviates from the report, organizers may deem the submission invalid.
