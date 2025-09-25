@@ -29,58 +29,39 @@ The competition has **two stages**:
 * Review approach: Scoring will be based on the submitted dataset and report. Reviewers will verify the availability of datasets and code as necessary, and may conduct spot checks or request further clarifications.
 
 
-# 4 Rubric Detail
-## Scale
-* Each section is scored on **1–5**
+# 4 Submission requirements
 
-| Score  | Description                                           |
-| ------ | ----------------------------------------------------- |
-| 1      | Poor \(severe deficiencies \/ unusable\)              |
-| 2      | Weak \(multiple issues\)                              |
-| 3      | Fair \(meets minimum expectations\)                   |
-| 4      | Good \(high quality with minor gaps\)                 |
-| 5      | Excellent \(clear, complete, reusable, high impact\)  |
+## Part 1 DATASET(s)
+1)	Datasets. 
+2)	README document(s). Introduction of the datasets
+   
+**Part 1 upload to [IEEEDataPort submit dataset](https://ieee-dataport.org/submit-dataset). Submission must comply with DataPort’s upload and publication policies.**
 
+## Part 2 REPORT(s)
 
-## Section weights
+1)	A brief introduction (max **600 words**) document, including
+* Link to the uploaded datasets on the IEEE DataPort website
+* Clear application topic/use case (e.g., load/generation forecasting, power flow calculation, fault diagnosis, market analytics, power electronics data, etc.).
+* What types of PES domain challenges does your dataset address?
+* What types of AI model training/learning challenges does your dataset address?
+* Why are they good datasets?
 
-| No.    | Section \(<i>S<sub>i</sub></i>\)                      | Weight \(<i>W<sub>i</sub></i>\)  |
-| ------ | ----------------------------------------------------- | ------------------- |
-| 1      | Importance of targeted problem <br>\(A good dataset should target a problem of high relevance and impact in the power and energy domain, advancing both research innovation and practical solutions.\)  | 10% |
-| 2      | Difficulty of data organization<br>\(The difficulty of data organization reflects the effort required to collect, clean, integrate, and structure the dataset.\)                     | 10% |
-| 3      | Accessibility & Usability<br>\(Publicly available, with clear documentation, metadata, and licensing. Organized in standard formats (e.g., MAT, CSV, JSON, HDF5) and easy to integrate into AI workflows.\)  | 20% |
-| 4      | Reproducibility & Transparency<br>\(Accompanied by clear instructions, preprocessing steps, and references. Code for data preparation or example use cases is provided.\)  |  20% |
-| 5      | AI model performance based on datasets<br>\(Good dataset should enable the efficient learning of AI models and achieve reliable, generalizable, and reproducible performance, demonstrated through benchmarking on relevant tasks.\)  | 30% |
-| 6      | Impact potential<br>\(Enables development of robust AI models with measurable improvements. Has potential to accelerate innovation in sustainability, efficiency, reliability or resiliency.\) | 10% |
+2)	Data description article. Article Formatting follows the IEEE Data Descriptions journal Descriptor Articles format. 
+Recommended length of **4 pages** with a **max of 6 pages**. Descriptor articles must have and only have these sections (without numbering) in this order:
+* Abstract
+* Background
+* Collection Methods and Design
+* Validation and Quality
+* Records and Storage
+* Insights and Notes
+* Source Code and Scripts
+* Acknowledgements and Interests
+* References
 
-* Final score calculation
-Final_score = <math>
-  <mrow>
-    <mo>&#x03A3;</mo>
-      <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
-   </mrow></math>
+More details in [Descriptor Articles Author Guide - IEEE Data Descriptions](https://www.ieee-data.org/author-guide/). 
 
-
-* All-student bonus &#x03B3;=0.5: Final_score = <math>
-  <mrow>
-    <mo>&#x03B3; + </mo>
-    <mo>&#x03A3;</mo>
-      <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
-   </mrow></math>
-
-\(\* Students include undergraduate and postgraduate students.\)
-
-* Tie-breaking
-  If a tie occurs, compare in order: \(1\) Data quality & completeness \(higher wins\); \(2\) Metadata quality \(higher wins\); \(3\) Baseline validation \(higher wins\).
-* Disqualification & Deductions
-  Plagiarism, infringement, data fabrication, or major compliance risks may lead to disqualification. If data/code becomes inaccessible during review or significantly deviates from the report, organizers may deem the submission invalid.
+**Please use provided [templates for 1 & 2](https://ieee-dataport.org/xxxxxx).**
+**Reports in PDF format only, and send to the competition email dppesdatacompetition@gmail.com with subject “team name + DOI of submitted datasets in DataPort”. Do not submit Part 2 to DataPort during the competition.**
 
 
-# 5 IP, Legal, Ethics & Safety
 
-* Teams must ensure they hold the necessary rights to their submissions and do not infringe third-party rights.
-* Data, code, and documentation must carry explicit licenses. Third-party components must cite sources and licenses and ensure lawful redistribution and Competition use.
-* Teams retain their IP. Organizers and reviewers have a fair-use right for competition-related publicity, review, and scholarly communication \(including screenshots, abstracts, and links\).
-* No PII or sensitive critical-infrastructure details; apply appropriate de-identification/differential privacy where necessary and document it.
-* Data sources must be lawful and compliant; assess and disclose potential risks \(bias, discrimination, misuse\).
-* Sensitive grid-security information should be obfuscated and disclosed in tiers where appropriate.
