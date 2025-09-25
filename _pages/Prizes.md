@@ -10,12 +10,9 @@ Prices of the competition
 
 # Award & Prizes
 * Certifications for winners from IEEE DataPort.
-* Winner datasets promotion by IEEE DataPort.
-* Green channel to publish the data reports of winners in the IEEE Data Descriptions journal.
-* APC waiver for top3 place.
-* Peer-review waiver for all winners.
-
-The following cash prize will be awarded:
+* Winner datasets promotion by IEEE DataPort
+* Green channel to publish the data reports of winners in the IEEE Data Descriptions journal. Invited publication and APC waiver for the top3 places.
+* The following cash prize will be awarded:
 
 | Rank  | Number  | Prize   |
 | ----- | ------- | ------- |
@@ -49,24 +46,18 @@ The following cash prize will be awarded:
 | 5      | AI model performance based on datasets<br>\(A good dataset should enable the efficient learning of AI models and achieve reliable, generalizable, and reproducible performance, demonstrated through benchmarking on relevant tasks.\)  | 30% |
 | 6      | Impact potential<br>\(Enables development of robust AI models with measurable improvements. Has potential to accelerate innovation in sustainability, efficiency, reliability, or resiliency.\) | 10% |
 
-* Final score calculation
-Final_score = <math>
-  <mrow>
-    <mo>&#x03A3;</mo>
-      <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
-   </mrow></math>
 
-
-* All-student bonus &#x03B3;=0.5: Final_score = <math>
+* All-student bonus &#x03B3=0.5; format penalty p=1: Final_score = <math>
   <mrow>
-    <mo>&#x03B3; + </mo>
+    <mo>&#x03B3; -p + </mo>
     <mo>&#x03A3;</mo>
       <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
    </mrow></math>
 
 \(\* Students include undergraduate and postgraduate students.\)
+\(\* Format penalty: submissions do not follow the required formatting, e.g. word/page limit.\)
 
 * Tie-breaking
-  If a tie occurs, compare in order: \(1\) Data quality & completeness \(higher wins\); \(2\) Metadata quality \(higher wins\); \(3\) Baseline validation \(higher wins\).
+  If a tie occurs, compare in order: \(1\) AI model performance based on datasets \(higher wins\); \(2\) Reproducibility & transparency \(higher wins\); \(3\) Accessibility & usability \(higher wins\).
 * Disqualification & Deductions
   Plagiarism, infringement, data fabrication, or major compliance risks may lead to disqualification. If data/code becomes inaccessible during review or significantly deviates from the report, organizers may deem the submission invalid.
