@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Regulations"
-permalink: /regulations/
+title: "SubmissionDetails"
+permalink: /submission/
 author_profile: false
 ---
 Regulations of the competition. Any matters not covered herein shall be decided by the committee after deliberation.
