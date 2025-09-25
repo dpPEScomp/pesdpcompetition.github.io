@@ -14,7 +14,7 @@ author_profile: false
 
 <img src="https://pesdpcompetition.github.io/images/JinTCD.png" width="150" height="150"> 
 
-**Jin Zhao,Trinity College Dublin, Ireland**,
+**Jin Zhao,Trinity College Dublin, Ireland**
 
 
 ---
@@ -32,3 +32,15 @@ author_profile: false
 <img src="https://pesdpcompetition.github.io/images/Zhengmao.jpg" width="150" height="150"> 
 
 **Zhengmao Li, Aalto University, Finland**
+
+
+**Gen Li, North China Electric Power University, China**
+
+**Yue Zhou, Tianjin University, China**
+
+**Saeed Manshadi, San Diego State University, USA**
+
+**Lusha Wang, The University of Alabama, USA**
+
+**Qiwei Zhang, The University of Texas at San Antonio, USA**
+
