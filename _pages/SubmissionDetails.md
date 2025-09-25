@@ -7,22 +7,20 @@ author_profile: false
 Regulations of the competition. Any matters not covered herein shall be decided by the committee after deliberation.
 
 ---
-# 1 Competition procedure
-* All submitted works should consist of **two parts**: the dataset and the corresponding report in IEEE data description [journal style](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10347231).
-* All submitted datasets must be hosted on [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies.
+# 1 Eligibility & Teaming
+* Participation is open to individuals or teams. Each team may have at most 3 members (including the team lead). An extra supervisor is allowed and optional.
+* Only one registration per team is required. There is no restriction on members’ institutions.
+* All-student teams receive a scoring advantage (see Prizes). An all-student team means all members are enrolled students (undergraduate, master’s, or PhD) on the submission deadline.
+* Each participant (including individuals) may join at most one team. Duplicate participation may result in disqualification.
 
+
+
+# 2 Evaluation Process
 The competition has **two stages**:
 * **Stage 1**
   The submitted datasets and reports will be reviewed by the committees, and the Top 5 teams will be selected.
 * **Stage 2**
   These **Top 5 teams** will be invited to an online defense, where they will present their datasets. The final winners will be determined based on this defense.
-
-
-# 2 Eligibility & Teaming
-* Participation is open to individuals or teams. Each team may have at most 3 members (including the team lead).
-* Only one registration per team is required. There is no restriction on members’ institutions.
-* All-student teams receive a scoring advantage (see final score calculation). An all-student team means all members are enrolled students (undergraduate, master’s, or PhD) on the submission deadline.
-* Each participant (including individuals) may join at most one team. Duplicate participation may result in disqualification.
 
 
 # 3 Review & Compliance Screening
