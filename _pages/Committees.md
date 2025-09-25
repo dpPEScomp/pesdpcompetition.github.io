@@ -12,21 +12,23 @@ author_profile: false
 
 # Competition Chair
 
-<img src="https://pesdpcompetition.github.io/images/JinZhao.jpg" width="150" height="150"> 
+<img src="https://pesdpcompetition.github.io/images/JinTCD.png" width="150" height="150"> 
 
-**Dr. Jin Zhao,Trinity College Dublin, Ireland**,
-Research Fellow since Feb. 2025.
+**Jin Zhao,Trinity College Dublin, Ireland**,
 
 
 ---
 
 # Competition committee members
 
-<img src="https://JinZhaoTCD.github.io/images/XiWang.jpg" width="150" height="150"> 
+<img src="https://pesdpcompetition.github.io/images/Zita.jpg" width="150" height="150"> 
 
-* **Xi Wang**,
-PhD student since Fall 2024. [Personal website](https://scholar.google.com.hk/citations?user=qC4S5aEAAAAJ&hl=en).
+**Zita Vale, Polytechnic of Porto, Portugal**
 
-MS in 2024, Xi'an Jiaotong University.
+<img src="https://pesdpcompetition.github.io/images/Mathaios.jpg" width="150" height="150"> 
 
-Weather involved power system cascading failure analysis.
+**Mathaios Panteli, University of Cyprus, Cyprus**
+
+<img src="https://pesdpcompetition.github.io/images/Zhengmao.png" width="150" height="150"> 
+
+**Zhengmao Li, Aalto University, Finland**
