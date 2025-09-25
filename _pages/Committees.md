@@ -29,6 +29,6 @@ author_profile: false
 
 **Mathaios Panteli, University of Cyprus, Cyprus**
 
-<img src="https://pesdpcompetition.github.io/images/Zhengmao.png" width="150" height="150"> 
+<img src="https://pesdpcompetition.github.io/images/Zhengmao.jpg" width="150" height="150"> 
 
 **Zhengmao Li, Aalto University, Finland**
