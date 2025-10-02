@@ -71,4 +71,4 @@ author_profile: false
 
 <img src="https://dppescomp.github.io/pesdpcompetition.github.io/images/YangSHEN.jpg" width="150" height="150"> 
 
-**Yang Shen, Trinity College Dublin, Ireland**University College Cork, Ireland
+**Yang Shen, Trinity College Dublin, Ireland**
