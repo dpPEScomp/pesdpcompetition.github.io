@@ -11,7 +11,7 @@ Prices, Awards and Rubric details of the competition
 # Award & Prizes
 * Certifications for winners from IEEE DataPort.
 * Winner datasets promotion by IEEE DataPort
-* Green channel to publish the data reports of winners in the IEEE Data Descriptions journal. Invited publication and APC waiver for the top3 places.
+* Green channel to publish the data reports of winners in the IEEE Data Descriptions journal. Invited publication and APC waiver for the top 3 places.
 * The following cash prize will be awarded:
 
 | Rank  | Number  | Prize   |
@@ -60,7 +60,9 @@ Prices, Awards and Rubric details of the competition
 \(\* Format penalty: submissions do not follow the required formatting, e.g. word/page limit.\)
 
 * Tie-breaking
+  
   If a tie occurs, compare in order: \(1\) AI model performance based on datasets \(higher wins\); \(2\) Reproducibility & transparency \(higher wins\); \(3\) Accessibility & usability \(higher wins\).
   
 * Disqualification & Deductions
+  
   Plagiarism, infringement, data fabrication, or major compliance risks may lead to disqualification. If data/code becomes inaccessible during review or significantly deviates from the report, organizers may deem the submission invalid.
