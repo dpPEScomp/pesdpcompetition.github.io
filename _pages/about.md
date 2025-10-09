@@ -26,9 +26,9 @@ This Competition encourages researchers across the community to contribute high-
 
 
 ## Submission Requirements
-* Submitted works consist of two parts: part1 the DATASET(s) and part2 the REPORT(s)
+* All submitted works should consist of two parts: part1 the DATASET(s) and part2 the REPORT(s)
 * All DATASET(s) must be uploaded to [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies. 
-* REPORT(s) must include a data description article in [IEEE data description](https://www.ieee-data.org/) journal Descriptor Articles style. 
+* REPORT(s) must include a brief introduction document and a data description article in [IEEE data description](https://www.ieee-data.org/) journal Descriptor Articles style. 
 * Please use the provided template for REPORT(s)
 
 **Find more info. in SubmissionDeatils session**
@@ -38,17 +38,17 @@ This Competition encourages researchers across the community to contribute high-
 
 | Date \(GMT+0\)       | Description                         |
 | -------------------- | ----------------------------------- |
-| Oct.15,2025          | Competition land                    |
-| Oct.25,2025          | Expressions of Interest (EoI)       |
-| Dec.15,2025          | EoI deadline                        |
+| Oct.15,2025          | Competition launch                  |
+| Oct.15,2025          | Expressions of Interest (EoI)       |
+| Dec.15,2025          | EoI deadline (Participants who expressed interest will have bonus score)  |
 | Dec.25,2025          | Submission opens                    |
 | Feb.28,2026          | Submission deadline                 |
 | Mar.14,2026          | Administrative/compliance screening |
 | Mar.15~May.14,2026   | Review period                       |
-| June.26,2026 \(TBD\) | Online defense                      |
-| June.26,2026 \(TBD\) | Result announcement                 |
+| June,2026 \(TBD\)    | Online defense                      |
+| June,2026 \(TBD\)    | Result announcement                 |
 
 
 
-
+##
 Contact us: dppesdatacompetition@gmail.com
