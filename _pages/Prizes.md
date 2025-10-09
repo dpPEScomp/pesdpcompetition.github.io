@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Prizes & Rubric Detail"
+title: "Prizes&RubricDetail"
 permalink: /prizes/
 author_profile: false
 ---
