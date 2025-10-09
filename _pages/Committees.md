@@ -4,7 +4,7 @@ title: "Committees"
 permalink: /committees/
 author_profile: false
 ---
-**News of Competition will be weekly updated**
+**News of Competition will be dynamically updated**
 
 ---
 
