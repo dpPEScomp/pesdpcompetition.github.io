@@ -11,5 +11,5 @@ main:
   - title: "SubmissionDetails"
     url: /submission/
 
-  - title: "Prizes"
+  - title: "Prizes&RubricDetail"
     url: /prizes/    
