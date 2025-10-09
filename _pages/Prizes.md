@@ -50,7 +50,7 @@ Prices, Awards and Rubric details of the competition
 * All-student bonus &#x03B3;=0.25, format penalty p=1, EoI bonus b=0.25.
 * Final_score = <math>
   <mrow>
-    <mo>&#x03B3; -*p* + *b* + </mo>
+    <mo>&#x03B3; -<i>p + b</i> + </mo>
     <mo>&#x03A3;</mo>
       <i>S<sub>i</sub></i> * <i>W<sub>i</sub></i>
    </mrow></math>
