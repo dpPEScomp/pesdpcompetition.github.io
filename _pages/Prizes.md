@@ -21,6 +21,8 @@ Prices, Awards and Rubric details of the competition
 | 3rd   | 2       | $ 1000  |
 
 
+
+
 # Rubric Detail
 ## Scale
 * Each section is scored on **1–5**
