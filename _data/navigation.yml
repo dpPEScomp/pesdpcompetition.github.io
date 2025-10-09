@@ -8,8 +8,8 @@ main:
   - title: "Committees"
     url: /committees/
 
-  - title: "Submission Details"
+  - title: "SubmissionDetails"
     url: /submission/
 
-  - title: "Prizes & RubricDetail"
+  - title: "Prizes&RubricDetail"
     url: /prizes/    
