@@ -58,6 +58,8 @@ Recommended length of **4 pages** with a **max of 6 pages**. Descriptor articles
 * Acknowledgements and Interests
 * References
 
+_**Please highlight the performance of AI models trained using your dataset**_.
+
 More details in [Descriptor Articles Author Guide - IEEE Data Descriptions](https://www.ieee-data.org/author-guide/). 
 
 **Please use provided [templates for 1 & 2](https://ieee-dataport.org/xxxxxx).**
