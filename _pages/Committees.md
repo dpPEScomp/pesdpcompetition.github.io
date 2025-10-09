@@ -4,9 +4,7 @@ title: "Committees"
 permalink: /committees/
 author_profile: false
 ---
-**News of Competition**
-
-**Weekly updated** 
+**News of Competition will be weekly updated**
 
 ---
 
@@ -50,6 +48,7 @@ author_profile: false
 
 
 
+<img src="https://dppescomp.github.io/pesdpcompetition.github.io/images/Lusha_Wang.jpg" width="150" height="150"> 
 
 **Lusha Wang, The University of Alabama, USA**
 
