@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Prizes"
+title: "Prizes & Rubric Detail"
 permalink: /prizes/
 author_profile: false
 ---
-Prices of the competition
+Prices, Awards and Rubric details of the competition
 
 ---
 
