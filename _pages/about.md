@@ -39,8 +39,8 @@ This Competition encourages researchers across the community to contribute high-
 | Date \(GMT+0\)       | Description                         |
 | -------------------- | ----------------------------------- |
 | Oct.15,2025          | Competition launch                  |
-| Oct.15,2025          | Expressions of Interest (EoI)       |
-| Dec.15,2025          | EoI deadline (Participants who expressed interest will have bonus score)  |
+| Oct.15,2025          | [Expressions of Interest (EoI)](https://forms.office.com/e/repDqrsh6p) |
+| Dec.15,2025          | EoI deadline (Bonus score for participants submitting EoI before the deadline) |
 | Dec.25,2025          | Submission opens                    |
 | Feb.28,2026          | Submission deadline                 |
 | Mar.14,2026          | Administrative/compliance screening |
