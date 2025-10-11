@@ -47,7 +47,7 @@ The competition has **two stages**:
 * Why are they good datasets?
 
 2)	Data description article. Article Formatting follows the IEEE Data Descriptions journal Descriptor Articles format. 
-Recommended length of **4 pages** with a **max of 6 pages**. Descriptor articles must have and only have these sections (without numbering) in this order:
+Recommended length of **4 pages** with a **max of 6 pages**. Descriptor articles must have and only have these sections (without numbering) the order below. _**Please highlight the performance of AI model(s) trained using your dataset(s) where relevant**_.
 * Abstract
 * Background
 * Collection Methods and Design
@@ -58,7 +58,6 @@ Recommended length of **4 pages** with a **max of 6 pages**. Descriptor articles
 * Acknowledgements and Interests
 * References
 
-_**Please highlight the performance of AI models trained using your dataset**_.
 
 More details in [Descriptor Articles Author Guide - IEEE Data Descriptions](https://www.ieee-data.org/author-guide/). 
 
