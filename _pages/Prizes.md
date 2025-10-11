@@ -11,7 +11,7 @@ Prices, Awards and Rubric details of the competition
 # Award & Prizes
 * Certifications for winners from IEEE DataPort.
 * Winner datasets promotion by IEEE DataPort
-* Green channel to publish the data reports of winners in the IEEE Data Descriptions journal. Invited publication and APC waiver for the top 3 places.
+* Invited publication and APC waiver in the IEEE Data Descriptions journal for the top 3 places.
 * The following cash prize will be awarded:
 
 | Rank  | Number  | Prize   |
@@ -58,6 +58,8 @@ Prices, Awards and Rubric details of the competition
    </mrow></math>
 
 \(\* Students include undergraduate and postgraduate students.\)
+
+\(\*The EoI bonus applies only to EoI form submissions received before the EoI deadline.\)
 
 \(\* Format penalty: submissions do not follow the required formatting, e.g. word/page limit.\)
 
