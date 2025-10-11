@@ -63,7 +63,7 @@ author_profile: false
 **Barry Hayes, University College Cork, Ireland**
 
 
-
+<img src="https://dppescomp.github.io/pesdpcompetition.github.io/images/Vipin Pandey.jpeg" width="150" height="150"> 
 
 **Vipin Pandey, University College Cork, Ireland**
 
