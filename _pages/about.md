@@ -26,11 +26,13 @@ This Competition encourages researchers across the community to contribute high-
 
 
 ## Submission Requirements
-* All submitted works should consist of two parts: part1 the DATASET(s) and part2 the REPORT(s)
+* [Expressions of Interest (EoI)](https://forms.office.com/e/repDqrsh6p) are open until December 15, 2025. A bonus score of 0.25 will be awarded to participants who submit their EoI before the deadline.
+* All final submitted works should consist of two parts: part1 the DATASET(s) and part2 the REPORT(s)
 * All DATASET(s) must be uploaded to [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies. 
 * REPORT(s) must include a brief introduction document and a data description article in [IEEE data description](https://www.ieee-data.org/) journal Descriptor Articles style. 
 * Please use the provided template for REPORT(s)
 
+**Failed or incomplete submission will lead to unsucessful, participition**
 **Find more info. in SubmissionDeatils session**
 
 
@@ -39,7 +41,7 @@ This Competition encourages researchers across the community to contribute high-
 | Date \(GMT+0\)       | Description                         |
 | -------------------- | ----------------------------------- |
 | Oct.15,2025          | Competition launch                  |
-| Oct.15,2025          | [Expressions of Interest (EoI)](https://forms.office.com/e/repDqrsh6p) |
+| Oct.15,2025          | Expressions of Interest (EoI)       |
 | Dec.15,2025          | EoI deadline (Bonus score for participants submitting EoI before the deadline) |
 | Dec.25,2025          | Submission opens                    |
 | Feb.28,2026          | Submission deadline                 |
@@ -50,5 +52,5 @@ This Competition encourages researchers across the community to contribute high-
 
 
 
-
+## Inquiries and Questions
 Contact us: dppesdatacompetition@gmail.com
