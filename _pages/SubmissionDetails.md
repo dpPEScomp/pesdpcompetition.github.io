@@ -30,6 +30,9 @@ The competition has **two stages**:
 
 
 # 4 Submission requirements
+## [Expression of Interest](https://forms.office.com/e/repDqrsh6p) submission opens untill Dec.15,2025.
+Bonus score 0.25 for participants submitting EoI before the EoI deadline.
+
 
 ## Part 1 DATASET(s)
 1)	Datasets. 
