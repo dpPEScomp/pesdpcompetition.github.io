@@ -32,8 +32,9 @@ This Competition encourages researchers across the community to contribute high-
 * REPORT(s) must include a brief introduction document and a data description article in [IEEE data description](https://www.ieee-data.org/) journal Descriptor Articles style. 
 * Please use the provided template for REPORT(s)
 
-**Failed or incomplete submission will lead to unsucessful, participition**
-**Find more info. in SubmissionDeatils session**
+**Find more info. in SubmissionDeatils session.** 
+
+**Failure to complete or submit the required materials will result in unsuccessful participation.**
 
 
 ## **Key dates**
