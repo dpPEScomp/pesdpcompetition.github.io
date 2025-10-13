@@ -39,19 +39,20 @@ This Competition encourages researchers across the community to contribute high-
 
 ## **Key dates**
 
-| Date \(GMT+0\)       | Description                         |
-| -------------------- | ----------------------------------- |
-| Oct.15,2025          | Competition launch                  |
-| Oct.15,2025          | Expressions of Interest (EoI)       |
-| Dec.15,2025          | EoI deadline (Bonus score for participants submitting EoI before the deadline) |
-| Dec.25,2025          | Submission opens                    |
-| Feb.28,2026          | Submission deadline                 |
-| Mar.14,2026          | Administrative/compliance screening |
-| Mar.15~May.14,2026   | Review period                       |
-| June,2026 \(TBD\)    | Online defense                      |
-| June,2026 \(TBD\)    | Result announcement                 |
+| Date \(GMT+0\)        | Description                         |
+| --------------------- | ----------------------------------- |
+| Oct.15, 2025          | Competition launch                  |
+| Oct.15, 2025          | Expressions of Interest (EoI)       |
+| Dec.15, 2025          | EoI deadline (Bonus score for participants submitting EoI before the deadline) |
+| Dec.25, 2025          | Submission opens                    |
+| Feb.28, 2026          | Submission deadline                 |
+| Mar.14, 2026          | Administrative/compliance screening |
+| Mar.15~May.14, 2026   | Review period                       |
+| June, 2026 \(TBD\)    | Online defense                      |
+| June, 2026 \(TBD\)    | Result announcement                 |
 
 
 
 ## Inquiries and Questions
-Contact us: dppesdatacompetition@gmail.com
+
+Contact us:  dppesdatacompetition@gmail.com
