@@ -22,6 +22,8 @@ author_profile: false
 
 **Barry Hayes, University College Cork, Ireland**
 
+<img src="https://dppescomp.github.io/pesdpcompetition.github.io/images/Gen_Li.jpg" width="150" height="150"> 
+
 **Gen Li, North China Electric Power University, China**
 
 <img src="https://dppescomp.github.io/pesdpcompetition.github.io/images/Lusha_Wang.jpg" width="150" height="150"> 
