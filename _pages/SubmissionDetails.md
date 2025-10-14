@@ -44,10 +44,10 @@ Bonus score 0.25 for participants submitting EoI before the EoI deadline.
 
 1)	A brief introduction (max **600 words**) document, including
 * Link to the uploaded datasets on the IEEE DataPort website
-* Clear application topic/use case (e.g., load/generation forecasting, power flow calculation, fault diagnosis, market analytics, power electronics data, etc.).
+* Targeted topic/use case (e.g., load/generation forecasting, power flow calculation, fault diagnosis, market analytics, power electronics data, etc.).
 * What types of PES domain challenges does your dataset address?
-* What types of AI model training/learning challenges does your dataset address?
-* Why are they good datasets?
+* What types of challenges in AI model training/learning/implementation does your dataset address?
+* Why is it (are they) good dataset(s)?
 
 2)	Data description article. Article Formatting follows the IEEE Data Descriptions journal Descriptor Articles format. 
 Recommended length of **4 pages** with a **max of 6 pages**. Descriptor articles must have and only have these sections (without numbering) the order below. _**Please highlight the performance of AI model(s) trained using your dataset(s) where relevant**_.
