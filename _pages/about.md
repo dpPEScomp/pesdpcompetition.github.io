@@ -30,7 +30,7 @@ This Competition encourages researchers across the community to contribute high-
 * All final submitted works should consist of two parts: part1 the DATASET(s) and part2 the REPORT(s)
 * All DATASET(s) must be uploaded to [IEEE DataPort](https://ieee-dataport.org/) and comply with DataPort’s upload and publication policies. 
 * REPORT(s) must include a brief introduction document and a data description article in [IEEE data description](https://www.ieee-data.org/) journal Descriptor Articles style. 
-* Please use the provided template for REPORT(s)
+* Please use the provided [template for REPORT(s)](https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain).
 
 **Find more info. in SubmissionDeatils session.** 
 
