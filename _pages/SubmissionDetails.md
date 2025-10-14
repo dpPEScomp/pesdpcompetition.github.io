@@ -64,7 +64,8 @@ Recommended length of **4 pages** with a **max of 6 pages**. Descriptor articles
 
 More details in [Descriptor Articles Author Guide - IEEE Data Descriptions](https://www.ieee-data.org/author-guide/). 
 
-**Please use provided [templates for 1 & 2](https://ieee-dataport.org/xxxxxx).**
+**Please use provided [templates for Part 2 REPORT(s) 1) & 2)](https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain).**
+
 **Reports in PDF format only, and send to the competition email dppesdatacompetition@gmail.com with subject “team name + DOI of submitted datasets in DataPort”. Do not submit Part 2 to DataPort during the competition.**
 
 
