@@ -19,6 +19,7 @@ author_profile: false
 
 # Competition committee members
 
+<img src="https://dppescomp.github.io/pesdpcompetition.github.io/images/Barry Hayes.jpg" width="150" height="150"> 
 
 **Barry Hayes, University College Cork, Ireland**
 
