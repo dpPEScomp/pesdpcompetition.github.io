@@ -10,7 +10,7 @@ redirect_from:
 ![PESDPlogo](https://dppescomp.github.io/pesdpcompetition.github.io/images/PESDPlogo.png)
 
 ## Official site
-The [official site]() of this competition can be accessed on IEEE DataPort and news will be dually updated dynamically on this site.
+The [official site](https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain) of this competition can be accessed on IEEE DataPort and news will be dually updated dynamically on this site.
 
 
 ## Abstract
