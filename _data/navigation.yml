@@ -8,6 +8,9 @@ main:
   - title: "Committees"
     url: /committees/
 
+  - title: "FinalStandings"
+    url: /finalstandings/
+
   - title: "SubmissionDetails"
     url: /submission/
 
