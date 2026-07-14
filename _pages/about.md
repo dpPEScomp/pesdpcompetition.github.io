@@ -9,6 +9,9 @@ redirect_from:
 
 ![PESDPlogo](https://dppescomp.github.io/pesdpcompetition.github.io/images/PESDPlogo.png)
 
+## Final Results Have Been Released!
+Congratulations to all award recipients! The details are available [here](https://dppescomp.github.io/pesdpcompetition.github.io/finalstandings/).
+
 ## Official site
 The [official site](https://ieee-dataport.org/competitions/good-datasets-ai-model-training-power-and-energy-domain) of this competition can be accessed on IEEE DataPort and news will be dually updated dynamically on this site.
 
