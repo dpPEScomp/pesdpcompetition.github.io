@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Final Standings"
+title: "FinalStandings"
 permalink: /finalstandings/
 author_profile: false
 ---
